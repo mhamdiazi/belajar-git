@@ -11,3 +11,6 @@ const hasil = A * B ;
 
 
 console.log(coba tambah comit);
+
+
+console.log("fungsi baru");
